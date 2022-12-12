@@ -98,6 +98,9 @@ section a {
   width: 20px;
   margin-right: 10px;
 }
+.btn{
+  margin-left: 1rem;
+}
 
 .navbar-nav-right li:nth-child(2) {
   margin: 0 5px;
@@ -106,7 +109,7 @@ section a {
     text-transform: uppercase;
 }
 
-.btn2{
+/* .btn2{
     width: 5rem;
     height: 2rem;
     color: #198754;
@@ -125,7 +128,7 @@ section a {
     background-color: #198754;
     color: #fff;
     border: 1px solid black;
-}
+} */
 
 
 /* Footer & Social */
@@ -209,6 +212,7 @@ section a {
   line-height: 1.2;
   text-align: center;
   text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.048);
 }
 
 .btn-dark-outline {
@@ -218,7 +222,7 @@ section a {
 
 .btn-dark-outline:hover,
 .btn-light-outline:hover {
-  background-color: rgba(0, 0, 0, 0.06);
+  background-color: rgba(0, 0, 0, 0.145);
 }
 
 .btn-light-outline {
