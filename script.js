@@ -7,4 +7,6 @@ function navToggle() {
   document.body.classList.toggle('no-scroll')
 }
 
+//console.log(navToggle)
+
 btn.addEventListener('click', navToggle)
